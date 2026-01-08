@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "allowedIDs": ["947376242552881153"]
+  },
+  "colors": {
+    "embed": "#404040",
+    "buttonPrimary": "#808080",
+    "buttonSecondary": "#C0C0C0",
+    "buttonDanger": "#000000",
+    "buttonNeutral": "#FFFFFF"
+  },
+  "bot": {
+    "name": "Parameters",
+    "retryAttempts": 3,
+    "retryDelay": 1000,
+    "giveawayCheckInterval": 300000
+  }
+}
